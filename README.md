@@ -1,3 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SIA-tfwang)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=SIA-tfwang)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SIA-tfwang)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SIA-tfwang&count_private=true&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIA-tfwang)](https://github.com/anuraghazra/github-readme-stats)
+
