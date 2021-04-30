@@ -3,12 +3,12 @@ name: generate animation
 on:
   schedule:
       # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 10
     steps:
       - uses: Platane/snk@master
         id: snake-gif
