@@ -9,7 +9,7 @@
       <img src="https://github.com/tfwang96/tfwang96/blob/main/repositories.svg">
 <!--       <img src="https://github.com/tfwang96/tfwang96/blob/main/posts.svg"> -->
       <img src="https://github.com/tfwang96/tfwang96/blob/main/languages.svg">
-      <img src="https://github.com/tfwang96/tfwang96/blob/main/topics.svg">
+<!--       <img src="https://github.com/tfwang96/tfwang96/blob/main/topics.svg"> -->
       <img src="https://github.com/tfwang96/tfwang96/blob/main/followup.svg">
       <img src="https://github.com/tfwang96/tfwang96/blob/main/reactions.svg">
     </td>
