@@ -113,22 +113,22 @@ jobs:
           filename: followup.svg
           use_prebuilt_image: yes
           plugin_followup: yes
-     - name: plugin stackoverflow
-       uses: lowlighter/metrics@latest
-       with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          repositories: 200                
-          repositories_forks: yes           
-          repositories_affiliations: owner, collaborator
-          config_timezone: Asia/Shanghai
-          filename: stackoverflow.svg
-          use_prebuilt_image: yes
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 3086403                           
-          plugin_stackoverflow_sections: ""
-          plugin_stackoverflow_limit: 2                                
-          plugin_stackoverflow_lines: 4  
+#      - name: plugin stackoverflow
+#        uses: lowlighter/metrics@latest
+#        with:
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           repositories: 200                
+#           repositories_forks: yes           
+#           repositories_affiliations: owner, collaborator
+#           config_timezone: Asia/Shanghai
+#           filename: stackoverflow.svg
+#           use_prebuilt_image: yes
+#           plugin_stackoverflow: yes
+#           plugin_stackoverflow_user: 3086403                           
+#           plugin_stackoverflow_sections: ""
+#           plugin_stackoverflow_limit: 2                                
+#           plugin_stackoverflow_lines: 4  
 #      - name: plugin posts
 #        uses: lowlighter/metrics@latest
 #        with:
