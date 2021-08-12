@@ -10,13 +10,13 @@
 <!--       <img src="https://github.com/tfwang96/tfwang96/blob/main/posts.svg"> -->
       <img src="https://github.com/tfwang96/tfwang96/blob/main/languages.svg">
 <!--       <img src="https://github.com/tfwang96/tfwang96/blob/main/topics.svg"> -->
-      <img src="https://github.com/tfwang96/tfwang96/blob/main/followup.svg">
     </td>
     <td width="400px" style="border: none; vertical-align: top;">
+       <img src="https://github.com/tfwang96/tfwang96/blob/main/followup.svg">
       <img src="https://github.com/tfwang96/tfwang96/blob/main/reactions.svg">
       <img src="https://github.com/tfwang96/tfwang96/blob/main/activity-community.svg">
 <!--       <img src="https://github.com/tfwang96/tfwang96/blob/main/stackoverflow.svg"> -->
-      <img src="https://github.com/tfwang96/tfwang96/blob/main/achievements.svg">
+<!--       <img src="https://github.com/tfwang96/tfwang96/blob/main/achievements.svg"> -->
     </td>
   </tr>
   </tbody>
