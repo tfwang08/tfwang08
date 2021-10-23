@@ -23,4 +23,9 @@
 </table>
 
 <!--START_SECTION:waka-->
+```text
+Python       12 hrs 4 mins   ████████████████████████░   96.14 % 
+YAML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
 <!--END_SECTION:waka-->
