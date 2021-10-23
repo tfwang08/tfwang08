@@ -24,6 +24,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 16 October, 2021 - 22 October, 2021
+
 Python       12 hrs 4 mins   ████████████████████████░   96.14 % 
 YAML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
