@@ -4,7 +4,7 @@
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tbody>
   <tr style="border: none;">
-    <td width="400px" style="border: none; vertical-align: top;">
+    <td width="500px" style="border: none; vertical-align: top;">
       <img src="https://github.com/tfwang96/tfwang96/blob/main/header.svg">
       <img src="https://github.com/tfwang96/tfwang96/blob/main/repositories.svg">
 <!--       <img src="https://github.com/tfwang96/tfwang96/blob/main/posts.svg"> -->
