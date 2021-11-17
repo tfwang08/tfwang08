@@ -24,10 +24,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2021 - 15 November, 2021
+Week: 10 November, 2021 - 16 November, 2021
 
-Python       2 hrs 48 mins   ██████████████████████░░░   88.26 % 
-Other        18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Python       9 hrs 12 mins   ████████████████████████░   96.02 % 
+Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
