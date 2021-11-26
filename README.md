@@ -24,9 +24,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2021 - 24 November, 2021
+Week: 19 November, 2021 - 25 November, 2021
 
-Python       1 hr 17 mins    ██████████████████████▒░░   88.73 % 
-Other        9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Python       1 hr 32 mins    ███████████████████▓░░░░░   78.66 % 
+Other        25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 % 
 ```
 <!--END_SECTION:waka-->
