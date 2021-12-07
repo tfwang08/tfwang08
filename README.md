@@ -24,9 +24,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-Python   6 hrs 41 mins   ███████████████████░░░░░░   75.48 % 
-Other    2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Python   6 hrs 57 mins   ███████████████████░░░░░░   76.12 % 
+Other    2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
 ```
 <!--END_SECTION:waka-->
