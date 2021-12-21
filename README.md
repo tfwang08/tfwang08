@@ -24,10 +24,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 19 December, 2021
+Week: 14 December, 2021 - 20 December, 2021
 
-Other        8 hrs 53 mins   █████████████████▒░░░░░░░   69.81 % 
-Python       3 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.33 % 
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other        12 hrs 56 mins  ████████████████████▓░░░░   83.12 % 
+Python       2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
