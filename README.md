@@ -24,9 +24,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Python     4 hrs 32 mins   ███████████████████████░░   91.44 % 
-HTML       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Python   3 hrs 38 mins   ██████████████████████▒░░   89.63 % 
+HTML     24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
 <!--END_SECTION:waka-->
