@@ -24,8 +24,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-Python   52 mins         █████████████████████████   100.00 % 
+Python       1 hr 12 mins    █████████████████████▒░░░   85.17 % 
+YAML         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Bash         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 <!--END_SECTION:waka-->
