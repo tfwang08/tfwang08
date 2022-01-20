@@ -24,11 +24,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-Python       12 hrs          ██████████████████████░░░   88.30 % 
-C++          1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-CMake        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python       12 hrs 43 mins  ████████████████████████▓   98.94 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
