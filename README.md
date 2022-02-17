@@ -24,6 +24,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 February, 2022 - 16 February, 2022
+
+Total: 1 hr 31 mins
+
+Python   1 hr 31 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
