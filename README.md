@@ -24,10 +24,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Total: 1 hr 38 mins
-
-Python   1 hr 38 mins    █████████████████████████   100.00 % 
+Python   1 hr 50 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
