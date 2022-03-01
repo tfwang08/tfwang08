@@ -25,10 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-Python           48 mins         █████████████████████████   99.52 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python           6 hrs 57 mins   ████████████████████████▓   98.61 %
+Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
