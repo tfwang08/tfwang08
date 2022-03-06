@@ -25,11 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2022 - To: 04 March 2022
+From: 26 February 2022 - To: 05 March 2022
 
-Python         17 hrs 56 mins  ████████████████████████▓   98.50 %
-Bash           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Shell Script   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python         21 hrs 33 mins  ████████████████████████▒   97.62 %
+Shell Script   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Bash           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Markdown       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
