@@ -25,14 +25,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2022 - To: 07 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
-Python           17 hrs 11 mins  ███████████████████████▒░   93.74 %
-Cuda             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Shell Script     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-ObjectiveC       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-CMake            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python           16 hrs 27 mins  ███████████████████████▒░   93.65 %
+Cuda             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Shell Script     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+ObjectiveC       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CMake            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
