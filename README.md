@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2022 - To: 22 March 2022
+From: 16 March 2022 - To: 23 March 2022
 
-Python         10 hrs 57 mins  █████████████████████░░░░   83.48 %
-Jupyter        1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Markdown       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Bash           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-PythonStub     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python           13 hrs 8 mins   █████████████████████░░░░   83.56 %
+Jupyter          1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Markdown         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
