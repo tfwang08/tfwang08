@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
+From: 25 March 2022 - To: 01 April 2022
 
-Python           36 hrs 52 mins  ███████████████████████▒░   93.09 %
-Jupyter          2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-YAML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Markdown         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python           39 hrs 47 mins  ████████████████████████▓   98.99 %
+YAML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Markdown         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
