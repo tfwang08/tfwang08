@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
-Python       8 hrs 4 mins    ████████████████████████░   96.35 %
-CSV/TSV      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Jupyter      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Python       9 hrs 7 mins    ████████████████████████▒   96.76 %
+CSV/TSV      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Jupyter      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
