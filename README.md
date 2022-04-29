@@ -26,12 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
+From: 21 April 2022 - To: 28 April 2022
 
-Jupyter        2 hrs 35 mins   █████████████▓░░░░░░░░░░░   55.06 %
-Python         2 hrs 3 mins    ███████████░░░░░░░░░░░░░░   43.90 %
-CSV/TSV        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python           2 hrs 38 mins   ████████████▒░░░░░░░░░░░░   49.72 %
+Jupyter          2 hrs 35 mins   ████████████▒░░░░░░░░░░░░   48.88 %
+CSV/TSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
