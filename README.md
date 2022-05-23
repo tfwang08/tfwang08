@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2022 - To: 21 May 2022
+From: 15 May 2022 - To: 22 May 2022
 
 Python           4 hrs 58 mins   ███████████████████▒░░░░░   77.27 %
 Jupyter          1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
