@@ -26,13 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2022 - To: 25 May 2022
+From: 19 May 2022 - To: 26 May 2022
 
-Python     1 hr 59 mins    ████████████████░░░░░░░░░   64.03 %
-Jupyter    1 hr 3 mins     ████████▓░░░░░░░░░░░░░░░░   34.15 %
-JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Jupyter   1 hr 3 mins     ████████████████████████▒   97.30 %
+Python    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
