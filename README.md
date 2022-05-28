@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 May 2022 - To: 26 May 2022
-
-Jupyter   1 hr 3 mins     ████████████████████████▒   97.30 %
-Python    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
