@@ -26,7 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 May 2022 - To: 30 May 2022
+
+Python           1 hr 1 min      ███████████████████████▓░   95.06 %
+YAML             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
