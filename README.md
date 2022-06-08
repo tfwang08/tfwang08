@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 May 2022 - To: 06 June 2022
+From: 31 May 2022 - To: 07 June 2022
 
-Python           15 hrs 5 mins   ████████████████████████░   96.63 %
-YAML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-textmate         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python           15 hrs 6 mins   ████████████████████████▓   98.31 %
+textmate         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Jupyter          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
