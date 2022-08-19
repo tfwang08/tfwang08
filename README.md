@@ -26,14 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Python           21 hrs 15 mins  ███████████████████████▓░   95.28 %
-Shell Script     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Bash             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Jupyter          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python         16 hrs 48 mins  ██████████████████████▒░░   88.73 %
+Bash           1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Shell Script   54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
