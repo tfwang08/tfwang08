@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 November 2022 - To: 21 November 2022
+From: 15 November 2022 - To: 22 November 2022
 
-Python           10 hrs 18 mins  ███████████████████▓░░░░░   79.03 %
-Bash             1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Shell Script     54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-PythonStub       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python           11 hrs 13 mins  ████████████████████░░░░░   79.74 %
+Bash             1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Shell Script     58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+PythonStub       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
