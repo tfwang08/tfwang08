@@ -26,12 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-Python         10 hrs 2 mins   ████████████████████▓░░░░   83.22 %
-Shell Script   1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Bash           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Text           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Python         12 hrs 9 mins   ██████████████████████▓░░   90.07 %
+Shell Script   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Bash           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Text           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
