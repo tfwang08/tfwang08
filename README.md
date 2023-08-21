@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
 Python     15 hrs 48 mins  █████████████████████████   99.44 %
 YAML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
