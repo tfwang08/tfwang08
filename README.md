@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Python   6 hrs 1 min     ██████████████████████▒░░   89.57 %
-JSON     42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+Python   5 hrs 51 mins   ██████████████████████▒░░   89.72 %
+JSON     40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 ```
 
 <!--END_SECTION:waka-->
