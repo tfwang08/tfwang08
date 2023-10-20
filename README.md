@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 12 October 2023 - To: 19 October 2023
 
-Python     5 hrs 18 mins   ████████████▒░░░░░░░░░░░░   49.66 %
-Markdown   5 hrs 4 mins    ████████████░░░░░░░░░░░░░   47.37 %
-JSON       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Python     3 hrs 43 mins   ███████████████▒░░░░░░░░░   61.76 %
+Markdown   2 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.69 %
+JSON       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
