@@ -26,11 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2025 - To: 26 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-YAML       1 hr 4 mins     █████████████▓░░░░░░░░░░░   55.27 %
-Markdown   51 mins         ███████████░░░░░░░░░░░░░░   44.23 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
