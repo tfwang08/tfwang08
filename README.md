@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2025 - To: 06 August 2025
+From: 31 July 2025 - To: 07 August 2025
 
 BibTeX   27 mins         ███████████████▓░░░░░░░░░   63.12 %
 TeX      16 mins         █████████▒░░░░░░░░░░░░░░░   36.88 %
