@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-TeX      5 hrs 23 mins   █████████████████░░░░░░░░   68.21 %
-Python   2 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.79 %
+TeX      6 hrs 5 mins    ███████████████████████▓░   94.25 %
+Python   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
 <!--END_SECTION:waka-->
